@@ -710,3 +710,6 @@ GET /getNewBook
 |10022|页数异常|页数不能小于等于0|
 
 
+# 参考连接
+
+[1] 豆瓣读书搜索页的window.__DATA__的解密 https://blog.csdn.net/sergiojune/article/details/88423440 
