@@ -4,7 +4,7 @@ import requests
 import re
 from flask import Flask  # 导包
 import execjs  # 这个库是PyExecJS
-
+ 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36'
 }
@@ -28,6 +28,11 @@ def face_recognition():
     # 获取参数,page为页数，type为类型
     page = request.args.get('page')
     type = request.args.get('type')
+    if page == None:
+        page = '0'
+    if type == None:
+        type = '全部'
+
     # 请求地址
     url = 'https://book.douban.com/latest?subcat=' + type + '&p=' + page
     # 请求头
@@ -89,6 +94,10 @@ def face_recognition():
 def getBookDetail():
     # 获取参数, id为书籍id
     id = request.args.get('id')
+    if id == None:
+        return jsonify({'code': 10020, 'msg': '参数错误'})
+    if id == '':
+        return jsonify({'code': 10021, 'msg': '参数为空'})
     # 请求地址
     url = 'https://book.douban.com/subject/' + id
     # 发送请求
@@ -208,8 +217,23 @@ def getBookDetail():
 @app.route("/getType", methods=[ 'GET'])
 def getTYpe():
     # 获取参数,page为页数，type为类型
-    page = int(request.args.get('page'))
+    page = request.args.get('page')
+    if page == None:
+        page = 1
+    else:
+        page = int(page)
+
+    if page <= 0:
+        return jsonify({'code': 10022, 'msg': '页数不能小于等于0'})
+
+    
     type = request.args.get('tag')
+
+    if type == None:
+        return jsonify({'code': 10021, 'msg': '类型不能为空'})
+    if type == '':
+        return jsonify({'code': 10021, 'msg': '类型不能为空'})
+    
     # 请求地址
     url = 'https://book.douban.com/tag/'+str(type)+'?start='+str((page-1)*20)+'&type=T'
     # 请求头
@@ -271,6 +295,10 @@ def getTYpe():
 def search():
     # 获取参数,q为搜索字段
     q  = request.args.get('q')
+    if q == None:
+        return jsonify({'code': 10020, 'msg': '搜索字段不能为空'})
+    if q == '':
+        return jsonify({'code': 10021, 'msg': '搜索字段不能为空'})
     # 请求地址
     url = 'https://search.douban.com/book/subject_search?search_text='+q+''
     print(url)
