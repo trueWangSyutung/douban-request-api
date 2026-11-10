@@ -72,7 +72,14 @@ jobs:
       - name: Smoke test container
         run: |
           docker run -d --name api -p 8080:8080 douban-api:ci
-          for i in $(seq 1 30); do curl -sf http://127.0.0.1:8080/healthz && break; sleep 1; done
-          curl -sf http://127.0.0.1:8080/healthz
-          docker logs api
-          docker rm -f api
+          ok=0
+          for i in $(seq 1 40); do
+            if curl -sf http://127.0.0.1:8080/healthz; then ok=1; break; fi
+            sleep 1
+          done
+          echo "--- container logs ---"
+          docker logs api || true
+          echo "--- container state ---"
+          docker inspect -f '{{.State.Status}} exit={{.State.ExitCode}}' api || true
+          docker rm -f api || true
+          [ "$ok" = "1" ] || exit 1

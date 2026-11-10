@@ -9,7 +9,7 @@ ENV PYTHONUNBUFFERED=1 \
 WORKDIR /app
 
 # 先装依赖，最大化利用构建缓存
-COPY pyproject.toml README.md ./
+COPY pyproject.toml README.md gunicorn.conf.py ./
 COPY src ./src
 RUN pip install --no-cache-dir . "gunicorn>=21.2" \
     && (pip install --no-cache-dir "orjson>=3.9" || echo "orjson 不可用，回退标准库 json") \
