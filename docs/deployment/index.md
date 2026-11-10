@@ -25,6 +25,14 @@ flowchart TB
 | 冷启动 | 无（CDN） | ~0 ms | 取决于平台 |
 | 自定义域名 | ✅ | ✅ | ✅ |
 
+## 当前在线地址
+
+| 形态 | 地址 |
+| --- | --- |
+| 实时 API（Worker + 自定义域名） | <https://bookapi.oaixiv.org> |
+| 文档站 | <https://trueWangSyutung.github.io/douban-request-api/> |
+| 静态快照 API | <https://trueWangSyutung.github.io/douban-request-api/api/v1/index.json> |
+
 ## 快速选择
 
 - **只想看文档 / 展示**：[GitHub Pages](pages.md)，合并到 `master` 即自动上线。

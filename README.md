@@ -148,8 +148,8 @@ https://<用户>.github.io/douban-request-api/
 ### 2. Cloudflare Worker（实时 API，一键）
 
 当前已部署在 **<https://bookapi.oaixiv.org>**：Cloudflare Route
-`bookapi.oaixiv.org/*` → `douban-request-api`（配置见
-[`worker/wrangler.toml`](worker/wrangler.toml)）。
+`bookapi.oaixiv.org/*` → `douban-request-api`，DNS 为代理中的 `AAAA 100::` 占位记录，
+证书由 Cloudflare 边缘自动签发（配置见 [`worker/wrangler.toml`](worker/wrangler.toml)）。
 
 1. Cloudflare 创建 API Token（*Edit Cloudflare Workers* 模板）；
 2. 仓库 Secrets 添加 `CLOUDFLARE_API_TOKEN`、`CLOUDFLARE_ACCOUNT_ID`；

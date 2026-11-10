@@ -3,6 +3,39 @@
 `worker/` 是同一套接口的 Worker 实现：用 `node-html-parser` 解析、Cloudflare Cache API 做边缘
 缓存，路由、字段与错误码和 Flask 版本一致。已用 `wrangler dev` 在本机对真实豆瓣验证通过。
 
+## 当前部署
+
+| 项目 | 值 |
+| --- | --- |
+| 自定义域名 | **<https://bookapi.oaixiv.org>** |
+| Worker 名称 | `douban-request-api` |
+| Route | `bookapi.oaixiv.org/*` → `douban-request-api`（zone: `oaixiv.org`） |
+| DNS | `bookapi` AAAA `100::`，开启代理（橙云） |
+| 证书 | Cloudflare 边缘证书（Universal SSL 覆盖 `*.oaixiv.org`） |
+| 部署方式 | GitHub Actions `worker.yml`（`workflow_dispatch` / push `worker/**`） |
+
+```bash
+curl -s https://bookapi.oaixiv.org/healthz
+# {"status":"ok","version":"2.0.0","runtime":"cloudflare-worker","cache":"edge"}
+
+curl -s https://bookapi.oaixiv.org/api/v1/books/2567698 | jq '.book.score'
+# "8.9"
+```
+
+路由也可以用 API 绑定（等价于控制台操作）：
+
+```bash
+# 1) 绑定路由
+curl -X PUT "https://api.cloudflare.com/client/v4/zones/$ZONE_ID/workers/routes/$ROUTE_ID" \
+  -H "Authorization: Bearer $CF_API_TOKEN" -H "Content-Type: application/json" \
+  -d '{"pattern":"bookapi.oaixiv.org/*","script":"douban-request-api"}'
+
+# 2) 确保存在一条代理中的 DNS 记录（Workers 路由需要一个被代理的主机名）
+curl -X POST "https://api.cloudflare.com/client/v4/zones/$ZONE_ID/dns_records" \
+  -H "Authorization: Bearer $CF_API_TOKEN" -H "Content-Type: application/json" \
+  -d '{"type":"AAAA","name":"bookapi","content":"100::","proxied":true,"ttl":1}'
+```
+
 ## 能力对比
 
 | 能力 | Flask/Docker | Worker |
