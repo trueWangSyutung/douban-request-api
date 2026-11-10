@@ -1,0 +1,192 @@
+{
+ "code": 200,
+ "tag": "小说",
+ "page": 1,
+ "start": 0,
+ "books": [
+  {
+   "id": "38370177",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35466757.jpg",
+   "name": "秦二世必须死",
+   "info": "马伯庸 / 民主与建设出版社 / 2026-4 / 118.00元",
+   "comment": "6.7",
+   "rating_count": "5015",
+   "url": "https://book.douban.com/subject/38370177/"
+  },
+  {
+   "id": "26877752",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s29827014.jpg",
+   "name": "恶意",
+   "info": "[日] 东野圭吾 / 娄美莲 / 南海出版公司 / 2016-11 / 39.50元",
+   "comment": "8.7",
+   "rating_count": "174304",
+   "url": "https://book.douban.com/subject/26877752/"
+  },
+  {
+   "id": "36457094",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34577743.jpg",
+   "name": "明亮的夜晚",
+   "info": "[韩]崔恩荣 / 叶蕾 / 台海出版社 / 2023-8 / 52",
+   "comment": "9.0",
+   "rating_count": "81670",
+   "url": "https://book.douban.com/subject/36457094/"
+  },
+  {
+   "id": "36473837",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34720942.jpg",
+   "name": "油炸绿番茄",
+   "info": "[美] 范妮·弗拉格 / 梁卿 / 北京时代华文书局 / 2024-2 / 59.00元",
+   "comment": "8.7",
+   "rating_count": "20329",
+   "url": "https://book.douban.com/subject/36473837/"
+  },
+  {
+   "id": "37833272",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35334352.jpg",
+   "name": "咸的玩笑",
+   "info": "刘震云 / 人民文学出版社 / 2025-12 / 69.00元",
+   "comment": "8.4",
+   "rating_count": "18570",
+   "url": "https://book.douban.com/subject/37833272/"
+  },
+  {
+   "id": "36104107",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34327482.jpg",
+   "name": "长安的荔枝",
+   "info": "马伯庸 / 湖南文艺出版社 / 2022-10 / 45.00元",
+   "comment": "8.5",
+   "rating_count": "274009",
+   "url": "https://book.douban.com/subject/36104107/"
+  },
+  {
+   "id": "38192362",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35503294.jpg",
+   "name": "伊加利亚的女儿们",
+   "info": "[挪] 格德·布兰腾伯格 / 靳婷婷 / 太白文艺出版社 / 2026-5 / 68.00元",
+   "comment": "9.1",
+   "rating_count": "5271",
+   "url": "https://book.douban.com/subject/38192362/"
+  },
+  {
+   "id": "35534519",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33956462.jpg",
+   "name": "素食者",
+   "info": "[韩] 韩江 / 胡椒筒 / 四川文艺出版社 / 2021-9 / 48",
+   "comment": "8.1",
+   "rating_count": "162449",
+   "url": "https://book.douban.com/subject/35534519/"
+  },
+  {
+   "id": "37339619",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s35162221.jpg",
+   "name": "桃花源没事儿",
+   "info": "马伯庸 / 湖南文艺出版社 / 2025-6 / 48.00元",
+   "comment": "7.6",
+   "rating_count": "21424",
+   "url": "https://book.douban.com/subject/37339619/"
+  },
+  {
+   "id": "34432750",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35398737.jpg",
+   "name": "额尔古纳河右岸",
+   "info": "迟子建 / 人民文学出版社 / 2019-6-1 / 32.00元",
+   "comment": "8.9",
+   "rating_count": "82526",
+   "url": "https://book.douban.com/subject/34432750/"
+  },
+  {
+   "id": "38392174",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35443099.jpg",
+   "name": "抄写员巴托比",
+   "info": "[美] 赫尔曼·梅尔维尔 / 孙冬 / 陕西师范大学出版总社 / 2026-1 / 32.00元",
+   "comment": "8.1",
+   "rating_count": "3981",
+   "url": "https://book.douban.com/subject/38392174/"
+  },
+  {
+   "id": "36328704",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s34544956.jpg",
+   "name": "太白金星有点烦",
+   "info": "马伯庸 / 湖南文艺出版社 / 2023-6 / 45.00",
+   "comment": "9.0",
+   "rating_count": "155604",
+   "url": "https://book.douban.com/subject/36328704/"
+  },
+  {
+   "id": "38568894",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35587827.jpg",
+   "name": "啸风山庄 : 插图袖珍本",
+   "info": "[英] 艾米莉·勃朗特 / 赖慈芸 / 九州出版社 / 2026-8 / 65.00元",
+   "comment": "9.1",
+   "rating_count": "1006",
+   "url": "https://book.douban.com/subject/38568894/"
+  },
+  {
+   "id": "35031587",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33685372.jpg",
+   "name": "绝叫",
+   "info": "[日] 叶真中显 / 林佩瑾 / 北京联合出版公司 / 2020-7 / 58.00元",
+   "comment": "8.9",
+   "rating_count": "158453",
+   "url": "https://book.douban.com/subject/35031587/"
+  },
+  {
+   "id": "4913064",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s29869926.jpg",
+   "name": "活着",
+   "info": "余华 / 作家出版社 / 2012-8 / 28.00元",
+   "comment": "9.4",
+   "rating_count": "929445",
+   "url": "https://book.douban.com/subject/4913064/"
+  },
+  {
+   "id": "35430425",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33884123.jpg",
+   "name": "流俗地",
+   "info": "[马来西亚] 黎紫书 / 北京十月文艺出版社 / 2021-4-1 / 55.00元",
+   "comment": "9.1",
+   "rating_count": "50580",
+   "url": "https://book.douban.com/subject/35430425/"
+  },
+  {
+   "id": "25862578",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s27264181.jpg",
+   "name": "解忧杂货店",
+   "info": "[日] 东野圭吾 / 李盈春 / 南海出版公司 / 2014-5 / 39.50元",
+   "comment": "8.5",
+   "rating_count": "789560",
+   "url": "https://book.douban.com/subject/25862578/"
+  },
+  {
+   "id": "36062390",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s34289066.jpg",
+   "name": "一句顶一万句",
+   "info": "刘震云 / 花城出版社 / 2022-8 / 68.00元",
+   "comment": "9.0",
+   "rating_count": "39604",
+   "url": "https://book.douban.com/subject/36062390/"
+  },
+  {
+   "id": "30331835",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s29915013.jpg",
+   "name": "窄门",
+   "info": "[法] 安德烈·纪德 / 顾琪静 / 天津人民出版社 / 2018-10 / 45.00",
+   "comment": "7.4",
+   "rating_count": "71751",
+   "url": "https://book.douban.com/subject/30331835/"
+  },
+  {
+   "id": "38510363",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s35597591.jpg",
+   "name": "恐惧",
+   "info": "[奥地利] 斯蒂芬·茨威格 / 姜乙 / 江苏凤凰文艺出版社 / 2026-8",
+   "comment": "8.6",
+   "rating_count": "882",
+   "url": "https://book.douban.com/subject/38510363/"
+  }
+ ],
+ "meta": {
+  "generated_at": "2026-11-10T06:09:00+00:00",
+  "source": "snapshot"
+ }
+}

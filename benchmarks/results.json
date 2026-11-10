@@ -1,0 +1,77 @@
+{
+  "env": {
+    "python": "3.10.11",
+    "platform": "Darwin 27.3.0 arm64",
+    "timestamp": "2026-11-10T06:01:58+00:00"
+  },
+  "parsing": [
+    {
+      "case": "最新图书列表",
+      "old_ms": 484.548,
+      "new_ms": 3.213,
+      "old_error": null,
+      "speedup": 150.81
+    },
+    {
+      "case": "标签图书列表",
+      "old_ms": null,
+      "new_ms": 2.273,
+      "old_error": "IndexError: list index out of range",
+      "speedup": null
+    },
+    {
+      "case": "图书详情页",
+      "old_ms": null,
+      "new_ms": 3.328,
+      "old_error": "IndexError: list index out of range",
+      "speedup": null
+    },
+    {
+      "case": "标签页：整页正则扫描 vs lxml 解析",
+      "old_ms": 1.763,
+      "new_ms": 2.175,
+      "old_error": null,
+      "speedup": null
+    }
+  ],
+  "search": {
+    "new_ms": 0.096,
+    "old_ms": 62.039,
+    "old_error": null,
+    "legacy_fallback_ms": 16.177,
+    "quickjs_available": true
+  },
+  "http": {
+    "old_ms": 0.93,
+    "new_ms": 0.593,
+    "speedup": 1.57
+  },
+  "cache": {
+    "hit_us": 1.0,
+    "miss_us": 4.0
+  },
+  "gzip": {
+    "raw_kb": 8.8,
+    "gzip_kb": 2.1,
+    "ratio": 0.237,
+    "ms": 0.1
+  },
+  "app": {
+    "cold_ms": 3.184,
+    "warm_ms": 0.298
+  },
+  "live": {
+    "old": {
+      "median_ms": 1017.002,
+      "min_ms": 921.923,
+      "p95_ms": 1022.923
+    },
+    "new": {
+      "median_ms": 230.779,
+      "min_ms": 189.398,
+      "p95_ms": 245.082
+    },
+    "service_first_ms": 253.0,
+    "service_warm_ms": 0.01
+  }
+}

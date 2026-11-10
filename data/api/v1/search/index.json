@@ -1,0 +1,996 @@
+{
+ "generated_at": "2026-11-10T06:09:00+00:00",
+ "count": 99,
+ "books": [
+  {
+   "id": "38613720",
+   "name": "空地",
+   "info": "李颖迪 / 2026-10 / 文汇出版社 / 59.00 / 平装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35635029.jpg",
+   "auther": "李颖迪",
+   "rating": "8.3",
+   "rating_count": "228",
+   "url": "https://book.douban.com/subject/38613720/"
+  },
+  {
+   "id": "36573595",
+   "name": "地方精英与治理模式",
+   "info": "[美] 周锡瑞 / [美] 冉枚烁 / 2026-10 / 九州出版社 / 128.00元 / 精装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35673952.jpg",
+   "auther": "[美] 周锡瑞 / [美] 冉枚烁",
+   "rating": "0",
+   "rating_count": "0",
+   "url": "https://book.douban.com/subject/36573595/"
+  },
+  {
+   "id": "38570440",
+   "name": "拉维尼亚",
+   "info": "[美] 厄休拉·勒古恩 / 2026-10 / 上海译文出版社 / 79.00 / 平装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35656649.jpg",
+   "auther": "[美] 厄休拉·勒古恩",
+   "rating": "9.7",
+   "rating_count": "21",
+   "url": "https://book.douban.com/subject/38570440/"
+  },
+  {
+   "id": "38616053",
+   "name": "自由之火：黑暗时代的哲学救赎 1933—1943",
+   "info": "[德] 沃尔夫拉姆·艾伦伯格 / 2026-10 / 上海文艺出版社 / 88.00元 / 平装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35673103.jpg",
+   "auther": "[德] 沃尔夫拉姆·艾伦伯格",
+   "rating": "0",
+   "rating_count": "0",
+   "url": "https://book.douban.com/subject/38616053/"
+  },
+  {
+   "id": "38928175",
+   "name": "终场告白：一位遗愿告解师的真实从业手记",
+   "info": "[澳] 比尔·埃德加 / 2026-10 / 文汇出版社 / 59.00 / 平装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35656647.jpg",
+   "auther": "[澳] 比尔·埃德加",
+   "rating": "0",
+   "rating_count": "0",
+   "url": "https://book.douban.com/subject/38928175/"
+  },
+  {
+   "id": "38571797",
+   "name": "整合世界：19世纪英国的全球治理",
+   "info": "[英] 阿兰·莱斯特 / [英] 凯特·伯梅 / [英] 彼得·米切尔 / 2026-11-1 / 浙江大学出版社 / 88 / 精装",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35671065.jpg",
+   "auther": "[英] 阿兰·莱斯特",
+   "rating": "0",
+   "rating_count": "0",
+   "url": "https://book.douban.com/subject/38571797/"
+  },
+  {
+   "id": "38636340",
+   "name": "流行病与社会：从黑死病开始的瘟疫史",
+   "info": "[美]弗兰克·M.斯诺登 / 2026-10 / 九州出版社 / 120.00 / 精装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35675078.jpg",
+   "auther": "[美]弗兰克·M.斯诺登",
+   "rating": "0",
+   "rating_count": "4",
+   "url": "https://book.douban.com/subject/38636340/"
+  },
+  {
+   "id": "38480516",
+   "name": "制造家庭主妇：家务如何成为无偿劳动",
+   "info": "[德] 艾芙克·鲁尔弗 / 2026-10 / 东方出版中心 / 69.80元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35682050.jpg",
+   "auther": "[德] 艾芙克·鲁尔弗",
+   "rating": "0",
+   "rating_count": "5",
+   "url": "https://book.douban.com/subject/38480516/"
+  },
+  {
+   "id": "38207211",
+   "name": "人的万物法则",
+   "info": "[澳]迈克尔·穆图克里什纳 / 2026-10-15 / 中信出版集团 / 88.00 / 平装",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35691655.jpg",
+   "auther": "[澳]迈克尔·穆图克里什纳",
+   "rating": "0",
+   "rating_count": "4",
+   "url": "https://book.douban.com/subject/38207211/"
+  },
+  {
+   "id": "39027727",
+   "name": "南风雾露",
+   "info": "林树京 / 2026-10 / 作家出版社 / 58.00元 / 平装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35687920.jpg",
+   "auther": "林树京",
+   "rating": "0",
+   "rating_count": "1",
+   "url": "https://book.douban.com/subject/39027727/"
+  },
+  {
+   "id": "38556394",
+   "name": "人性之镜：简明文化人类学（第13版）",
+   "info": "［美］康拉德·菲利普·科塔克 / 2026-10 / 金城出版社 / 98.00 / 平装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35655017.jpg",
+   "auther": "［美］康拉德·菲利普·科塔克",
+   "rating": "0",
+   "rating_count": "7",
+   "url": "https://book.douban.com/subject/38556394/"
+  },
+  {
+   "id": "38589692",
+   "name": "赌徒",
+   "info": "[俄]陀思妥耶夫斯基 / 2026-11-1 / 文汇出版社 / 45.00元 / 平装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35636993.jpg",
+   "auther": "[俄]陀思妥耶夫斯基",
+   "rating": "0",
+   "rating_count": "3",
+   "url": "https://book.douban.com/subject/38589692/"
+  },
+  {
+   "id": "39007757",
+   "name": "理解人体结构I：表现人体形态、功能及动作的实用解剖书",
+   "info": "[美] 瓦莱丽·L. 温斯洛 / 2026-11 / 湖南美术出版社 / 188.00元 / 空脊平装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35674037.jpg",
+   "auther": "[美] 瓦莱丽·L. 温斯洛",
+   "rating": "0",
+   "rating_count": "0",
+   "url": "https://book.douban.com/subject/39007757/"
+  },
+  {
+   "id": "38464900",
+   "name": "中国现代国家的起源",
+   "info": "[美] 孔飞力 / 2026-9 / 生活·读书·新知三联书店 / 68.00元 / 平装",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35596586.jpg",
+   "auther": "[美] 孔飞力",
+   "rating": "0",
+   "rating_count": "8",
+   "url": "https://book.douban.com/subject/38464900/"
+  },
+  {
+   "id": "38632519",
+   "name": "海浪",
+   "info": "[英] 弗吉尼亚·伍尔夫 / 2026-10 / 文汇出版社 / 59.80元 / 平装",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35635094.jpg",
+   "auther": "[英] 弗吉尼亚·伍尔夫",
+   "rating": "9.2",
+   "rating_count": "25",
+   "url": "https://book.douban.com/subject/38632519/"
+  },
+  {
+   "id": "38672439",
+   "name": "四季花传书",
+   "info": "[日]川濑敏郎 / 2026-10 / 湖南人民出版社 / 96.00元 / 精装",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35627115.jpg",
+   "auther": "[日]川濑敏郎",
+   "rating": "0",
+   "rating_count": "3",
+   "url": "https://book.douban.com/subject/38672439/"
+  },
+  {
+   "id": "37425212",
+   "name": "本托的速写本",
+   "info": "[英] 约翰·伯格 / 2026-10 / 云南人民出版社 / 平装",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35633395.jpg",
+   "auther": "[英] 约翰·伯格",
+   "rating": "9.2",
+   "rating_count": "30",
+   "url": "https://book.douban.com/subject/37425212/"
+  },
+  {
+   "id": "38903937",
+   "name": "川流不息：近代长江中游的沙洲、码头与滨水社会",
+   "info": "刘诗古 / 2026-9 / 上海人民出版社 / 平装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35664079.jpg",
+   "auther": "刘诗古",
+   "rating": "0",
+   "rating_count": "7",
+   "url": "https://book.douban.com/subject/38903937/"
+  },
+  {
+   "id": "38622753",
+   "name": "东德童话",
+   "info": "[德] 燕妮·埃彭贝克 / 2026-10 / 民主与建设出版社 / 平装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35633502.jpg",
+   "auther": "[德] 燕妮·埃彭贝克",
+   "rating": "8.2",
+   "rating_count": "292",
+   "url": "https://book.douban.com/subject/38622753/"
+  },
+  {
+   "id": "38560071",
+   "name": "妥协",
+   "info": "[美] 谢尔盖·多甫拉托夫 / 2026-9 / 作家出版社 / 65.00元 / 精装",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35617738.jpg",
+   "auther": "[美] 谢尔盖·多甫拉托夫",
+   "rating": "0",
+   "rating_count": "8",
+   "url": "https://book.douban.com/subject/38560071/"
+  },
+  {
+   "id": "38370177",
+   "name": "秦二世必须死",
+   "info": "马伯庸 / 民主与建设出版社 / 2026-4 / 118.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35466757.jpg",
+   "auther": "",
+   "rating": "6.7",
+   "rating_count": "5015",
+   "url": "https://book.douban.com/subject/38370177/"
+  },
+  {
+   "id": "26877752",
+   "name": "恶意",
+   "info": "[日] 东野圭吾 / 娄美莲 / 南海出版公司 / 2016-11 / 39.50元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s29827014.jpg",
+   "auther": "",
+   "rating": "8.7",
+   "rating_count": "174304",
+   "url": "https://book.douban.com/subject/26877752/"
+  },
+  {
+   "id": "36457094",
+   "name": "明亮的夜晚",
+   "info": "[韩]崔恩荣 / 叶蕾 / 台海出版社 / 2023-8 / 52",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34577743.jpg",
+   "auther": "",
+   "rating": "9.0",
+   "rating_count": "81670",
+   "url": "https://book.douban.com/subject/36457094/"
+  },
+  {
+   "id": "36473837",
+   "name": "油炸绿番茄",
+   "info": "[美] 范妮·弗拉格 / 梁卿 / 北京时代华文书局 / 2024-2 / 59.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34720942.jpg",
+   "auther": "",
+   "rating": "8.7",
+   "rating_count": "20329",
+   "url": "https://book.douban.com/subject/36473837/"
+  },
+  {
+   "id": "37833272",
+   "name": "咸的玩笑",
+   "info": "刘震云 / 人民文学出版社 / 2025-12 / 69.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35334352.jpg",
+   "auther": "",
+   "rating": "8.4",
+   "rating_count": "18570",
+   "url": "https://book.douban.com/subject/37833272/"
+  },
+  {
+   "id": "36104107",
+   "name": "长安的荔枝",
+   "info": "马伯庸 / 湖南文艺出版社 / 2022-10 / 45.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34327482.jpg",
+   "auther": "",
+   "rating": "8.5",
+   "rating_count": "274009",
+   "url": "https://book.douban.com/subject/36104107/"
+  },
+  {
+   "id": "38192362",
+   "name": "伊加利亚的女儿们",
+   "info": "[挪] 格德·布兰腾伯格 / 靳婷婷 / 太白文艺出版社 / 2026-5 / 68.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35503294.jpg",
+   "auther": "",
+   "rating": "9.1",
+   "rating_count": "5271",
+   "url": "https://book.douban.com/subject/38192362/"
+  },
+  {
+   "id": "35534519",
+   "name": "素食者",
+   "info": "[韩] 韩江 / 胡椒筒 / 四川文艺出版社 / 2021-9 / 48",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33956462.jpg",
+   "auther": "",
+   "rating": "8.1",
+   "rating_count": "162449",
+   "url": "https://book.douban.com/subject/35534519/"
+  },
+  {
+   "id": "37339619",
+   "name": "桃花源没事儿",
+   "info": "马伯庸 / 湖南文艺出版社 / 2025-6 / 48.00元",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s35162221.jpg",
+   "auther": "",
+   "rating": "7.6",
+   "rating_count": "21424",
+   "url": "https://book.douban.com/subject/37339619/"
+  },
+  {
+   "id": "34432750",
+   "name": "额尔古纳河右岸",
+   "info": "迟子建 / 人民文学出版社 / 2019-6-1 / 32.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35398737.jpg",
+   "auther": "",
+   "rating": "8.9",
+   "rating_count": "82526",
+   "url": "https://book.douban.com/subject/34432750/"
+  },
+  {
+   "id": "38392174",
+   "name": "抄写员巴托比",
+   "info": "[美] 赫尔曼·梅尔维尔 / 孙冬 / 陕西师范大学出版总社 / 2026-1 / 32.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35443099.jpg",
+   "auther": "",
+   "rating": "8.1",
+   "rating_count": "3981",
+   "url": "https://book.douban.com/subject/38392174/"
+  },
+  {
+   "id": "36328704",
+   "name": "太白金星有点烦",
+   "info": "马伯庸 / 湖南文艺出版社 / 2023-6 / 45.00",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s34544956.jpg",
+   "auther": "",
+   "rating": "9.0",
+   "rating_count": "155604",
+   "url": "https://book.douban.com/subject/36328704/"
+  },
+  {
+   "id": "38568894",
+   "name": "啸风山庄 : 插图袖珍本",
+   "info": "[英] 艾米莉·勃朗特 / 赖慈芸 / 九州出版社 / 2026-8 / 65.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35587827.jpg",
+   "auther": "",
+   "rating": "9.1",
+   "rating_count": "1006",
+   "url": "https://book.douban.com/subject/38568894/"
+  },
+  {
+   "id": "35031587",
+   "name": "绝叫",
+   "info": "[日] 叶真中显 / 林佩瑾 / 北京联合出版公司 / 2020-7 / 58.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33685372.jpg",
+   "auther": "",
+   "rating": "8.9",
+   "rating_count": "158453",
+   "url": "https://book.douban.com/subject/35031587/"
+  },
+  {
+   "id": "4913064",
+   "name": "活着",
+   "info": "余华 / 作家出版社 / 2012-8 / 28.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s29869926.jpg",
+   "auther": "",
+   "rating": "9.4",
+   "rating_count": "929445",
+   "url": "https://book.douban.com/subject/4913064/"
+  },
+  {
+   "id": "35430425",
+   "name": "流俗地",
+   "info": "[马来西亚] 黎紫书 / 北京十月文艺出版社 / 2021-4-1 / 55.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33884123.jpg",
+   "auther": "",
+   "rating": "9.1",
+   "rating_count": "50580",
+   "url": "https://book.douban.com/subject/35430425/"
+  },
+  {
+   "id": "25862578",
+   "name": "解忧杂货店",
+   "info": "[日] 东野圭吾 / 李盈春 / 南海出版公司 / 2014-5 / 39.50元",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s27264181.jpg",
+   "auther": "",
+   "rating": "8.5",
+   "rating_count": "789560",
+   "url": "https://book.douban.com/subject/25862578/"
+  },
+  {
+   "id": "36062390",
+   "name": "一句顶一万句",
+   "info": "刘震云 / 花城出版社 / 2022-8 / 68.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s34289066.jpg",
+   "auther": "",
+   "rating": "9.0",
+   "rating_count": "39604",
+   "url": "https://book.douban.com/subject/36062390/"
+  },
+  {
+   "id": "30331835",
+   "name": "窄门",
+   "info": "[法] 安德烈·纪德 / 顾琪静 / 天津人民出版社 / 2018-10 / 45.00",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s29915013.jpg",
+   "auther": "",
+   "rating": "7.4",
+   "rating_count": "71751",
+   "url": "https://book.douban.com/subject/30331835/"
+  },
+  {
+   "id": "38510363",
+   "name": "恐惧",
+   "info": "[奥地利] 斯蒂芬·茨威格 / 姜乙 / 江苏凤凰文艺出版社 / 2026-8",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s35597591.jpg",
+   "auther": "",
+   "rating": "8.6",
+   "rating_count": "882",
+   "url": "https://book.douban.com/subject/38510363/"
+  },
+  {
+   "id": "36794613",
+   "name": "康熙的红票 : 全球化中的清朝",
+   "info": "孙立天 / 商务印书馆 / 2024-3 / 78",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34821689.jpg",
+   "auther": "",
+   "rating": "9.3",
+   "rating_count": "20004",
+   "url": "https://book.douban.com/subject/36794613/"
+  },
+  {
+   "id": "37118766",
+   "name": "安史之乱 : 历史、宣传与神话",
+   "info": "张诗坪、胡可奇 / 上海人民出版社 / 2025-8 / 138.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35221080.jpg",
+   "auther": "",
+   "rating": "9.2",
+   "rating_count": "3209",
+   "url": "https://book.douban.com/subject/37118766/"
+  },
+  {
+   "id": "38067357",
+   "name": "西塔 : 一个东北街区中的空间、国家与日常",
+   "info": "宋念申 / 上海人民出版社 / 2026-8 / 79.80元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35577685.jpg",
+   "auther": "",
+   "rating": "8.7",
+   "rating_count": "631",
+   "url": "https://book.douban.com/subject/38067357/"
+  },
+  {
+   "id": "38495090",
+   "name": "妩媚的忠臣 : 隋唐变局中的魏徵",
+   "info": "赵帅淇 / 中华书局 / 2026-7 / 58.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35533375.jpg",
+   "auther": "",
+   "rating": "7.8",
+   "rating_count": "608",
+   "url": "https://book.douban.com/subject/38495090/"
+  },
+  {
+   "id": "38613586",
+   "name": "失语的皇后 : 南齐权力嬗变中的个体生命",
+   "info": "郭硕 / 山西人民出版社 / 2026-9 / 98.00",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s35609081.jpg",
+   "auther": "",
+   "rating": "7.6",
+   "rating_count": "152",
+   "url": "https://book.douban.com/subject/38613586/"
+  },
+  {
+   "id": "26925171",
+   "name": "大明王朝1566",
+   "info": "刘和平 / 花城出版社 / 2016-7 / 88.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s29249996.jpg",
+   "auther": "",
+   "rating": "9.5",
+   "rating_count": "24298",
+   "url": "https://book.douban.com/subject/26925171/"
+  },
+  {
+   "id": "38529630",
+   "name": "魏玛十五年 : 一个国家失败的样本",
+   "info": "马国川 / 广东人民出版社 / 2026-8 / 88.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35590732.jpg",
+   "auther": "",
+   "rating": "8.7",
+   "rating_count": "156",
+   "url": "https://book.douban.com/subject/38529630/"
+  },
+  {
+   "id": "35519560",
+   "name": "祥瑞 : 王莽和他的时代",
+   "info": "张向荣 / 上海人民出版社 / 2021-8 / 79.80元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s33957074.jpg",
+   "auther": "",
+   "rating": "8.7",
+   "rating_count": "12061",
+   "url": "https://book.douban.com/subject/35519560/"
+  },
+  {
+   "id": "35336328",
+   "name": "隳三都 : 蒙古灭金围城史",
+   "info": "周思成 / 山西人民出版社 / 2021-1 / 68.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33809803.jpg",
+   "auther": "",
+   "rating": "8.6",
+   "rating_count": "7412",
+   "url": "https://book.douban.com/subject/35336328/"
+  },
+  {
+   "id": "10758290",
+   "name": "东晋门阀政治",
+   "info": "田余庆 / 北京大学出版社 / 2012-5 / 49.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s10206185.jpg",
+   "auther": "",
+   "rating": "9.5",
+   "rating_count": "18627",
+   "url": "https://book.douban.com/subject/10758290/"
+  },
+  {
+   "id": "1041482",
+   "name": "万历十五年",
+   "info": "[美] 黄仁宇 / 生活·读书·新知三联书店 / 1997-5 / 18.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s1800355.jpg",
+   "auther": "",
+   "rating": "9.0",
+   "rating_count": "220797",
+   "url": "https://book.douban.com/subject/1041482/"
+  },
+  {
+   "id": "36096304",
+   "name": "翦商 : 殷周之变与华夏新生",
+   "info": "李硕 / 广西师范大学出版社 / 2022-10 / 99.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34385069.jpg",
+   "auther": "",
+   "rating": "8.8",
+   "rating_count": "40234",
+   "url": "https://book.douban.com/subject/36096304/"
+  },
+  {
+   "id": "38381103",
+   "name": "康熙 : 皇帝的自画像",
+   "info": "[美] 史景迁 / 汪枫 / 新星出版社 / 2026-8 / 59",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s35611401.jpg",
+   "auther": "",
+   "rating": "8.5",
+   "rating_count": "97",
+   "url": "https://book.douban.com/subject/38381103/"
+  },
+  {
+   "id": "35678328",
+   "name": "弃长安 : 安史之乱前后的内廷、诗人、政争与叛乱",
+   "info": "张明扬 / 天地出版社 / 2021-12 / 68.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34080320.jpg",
+   "auther": "",
+   "rating": "8.4",
+   "rating_count": "13689",
+   "url": "https://book.douban.com/subject/35678328/"
+  },
+  {
+   "id": "38556395",
+   "name": "一个村庄的陷落 : 纳粹如何瓦解日常生活",
+   "info": "[英] 朱莉娅·博伊德、[德] 安洁莉卡·帕特尔 / 王顺君 / 上海人民出版社 / 2026-6-1 / 88.00",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35566932.jpg",
+   "auther": "",
+   "rating": "8.6",
+   "rating_count": "103",
+   "url": "https://book.douban.com/subject/38556395/"
+  },
+  {
+   "id": "37920184",
+   "name": "真事隐 : 康熙废储与正史虚构",
+   "info": "孙立天 / 中华书局 / 2026-1 / 78.00",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35381053.jpg",
+   "auther": "",
+   "rating": "8.6",
+   "rating_count": "4304",
+   "url": "https://book.douban.com/subject/37920184/"
+  },
+  {
+   "id": "1003479",
+   "name": "中国历代政治得失",
+   "info": "钱穆 / 生活·读书·新知三联书店 / 2001 / 12.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s1319205.jpg",
+   "auther": "",
+   "rating": "9.2",
+   "rating_count": "85466",
+   "url": "https://book.douban.com/subject/1003479/"
+  },
+  {
+   "id": "38182714",
+   "name": "权力与王座 : 一部中世纪新史",
+   "info": "[英] 丹·琼斯 / 陆大鹏、刘晓晖 / 社会科学文献出版社 / 2026-8 / 178.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35587608.jpg",
+   "auther": "",
+   "rating": "8.5",
+   "rating_count": "116",
+   "url": "https://book.douban.com/subject/38182714/"
+  },
+  {
+   "id": "37869944",
+   "name": "历史中的大与小",
+   "info": "马伯庸 / 湖南文艺出版社 / 2025-12-31 / 56",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35358152.jpg",
+   "auther": "",
+   "rating": "7.3",
+   "rating_count": "4139",
+   "url": "https://book.douban.com/subject/37869944/"
+  },
+  {
+   "id": "2567698",
+   "name": "三体 : “地球往事”三部曲之一",
+   "info": "刘慈欣 / 重庆出版社 / 2008-1 / 23.00",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s2768378.jpg",
+   "auther": "",
+   "rating": "8.9",
+   "rating_count": "519248",
+   "url": "https://book.douban.com/subject/2567698/"
+  },
+  {
+   "id": "38552193",
+   "name": "世界诞生之日",
+   "info": "[美] 厄休拉·勒古恩 / 马雅 / 北京联合出版公司 / 2026-10 / 98.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35630176.jpg",
+   "auther": "",
+   "rating": "9.0",
+   "rating_count": "88",
+   "url": "https://book.douban.com/subject/38552193/"
+  },
+  {
+   "id": "35494160",
+   "name": "挽救计划",
+   "info": "[美] 安迪·威尔 / 耿辉 / 译林出版社 / 2021-9 / 68.00",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s33958826.jpg",
+   "auther": "",
+   "rating": "9.1",
+   "rating_count": "28874",
+   "url": "https://book.douban.com/subject/35494160/"
+  },
+  {
+   "id": "25829693",
+   "name": "永恒的终结 : 关于时间旅行的终极奥秘和恢宏构想",
+   "info": "[美] 艾萨克·阿西莫夫 / 崔正男 / 江苏凤凰文艺出版社 / 2014-9 / 32.00元",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s27409671.jpg",
+   "auther": "",
+   "rating": "9.1",
+   "rating_count": "56043",
+   "url": "https://book.douban.com/subject/25829693/"
+  },
+  {
+   "id": "38431581",
+   "name": "真实与虚幻 : 厄休拉·勒古恩短篇小说自选集",
+   "info": "[美] 厄休拉·勒古恩 / 由美 / 上海译文出版社 / 2026-8 / 139.00元",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s35588711.jpg",
+   "auther": "",
+   "rating": "9.5",
+   "rating_count": "126",
+   "url": "https://book.douban.com/subject/38431581/"
+  },
+  {
+   "id": "37426819",
+   "name": "时间之子 : “时间之子”系列 Ⅰ",
+   "info": "[英] 阿德里安·柴可夫斯基 / 罗妍莉 / 新星出版社 / 2026-6 / 69.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35453072.jpg",
+   "auther": "",
+   "rating": "8.5",
+   "rating_count": "139",
+   "url": "https://book.douban.com/subject/37426819/"
+  },
+  {
+   "id": "34672178",
+   "name": "你一生的故事",
+   "info": "[美] 特德·姜 / 李克勤、王荣生、姚向辉 / 译林出版社 / 2019-12 / 42.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s33516836.jpg",
+   "auther": "",
+   "rating": "8.6",
+   "rating_count": "14406",
+   "url": "https://book.douban.com/subject/34672178/"
+  },
+  {
+   "id": "3066477",
+   "name": "三体Ⅱ : 黑暗森林",
+   "info": "刘慈欣 / 重庆出版社 / 2008-5 / 32.00",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s3078482.jpg",
+   "auther": "",
+   "rating": "9.3",
+   "rating_count": "319587",
+   "url": "https://book.douban.com/subject/3066477/"
+  },
+  {
+   "id": "26362836",
+   "name": "献给阿尔吉侬的花束",
+   "info": "[美] 丹尼尔·凯斯 / 陈澄和 / 广西师范大学出版社 / 2015-4 / 36.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s28050760.jpg",
+   "auther": "",
+   "rating": "9.1",
+   "rating_count": "141541",
+   "url": "https://book.douban.com/subject/26362836/"
+  },
+  {
+   "id": "5363767",
+   "name": "三体Ⅲ : 死神永生",
+   "info": "刘慈欣 / 重庆出版社 / 2010-11 / 38.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s26012674.jpg",
+   "auther": "",
+   "rating": "9.2",
+   "rating_count": "297671",
+   "url": "https://book.douban.com/subject/5363767/"
+  },
+  {
+   "id": "35989392",
+   "name": "献给阿尔吉侬的花束",
+   "info": "[美] 丹尼尔·凯斯 / 陈澄和 / 河南文艺出版社 / 2022-8-1 / 48.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34280647.jpg",
+   "auther": "",
+   "rating": "9.0",
+   "rating_count": "44926",
+   "url": "https://book.douban.com/subject/35989392/"
+  },
+  {
+   "id": "26295448",
+   "name": "你一生的故事 : 特德·姜科幻小说集",
+   "info": "[美] 特德·姜 / 李克勤、王荣生、姚向辉 / 译林出版社 / 2015-5 / 36.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s28033064.jpg",
+   "auther": "",
+   "rating": "8.7",
+   "rating_count": "41905",
+   "url": "https://book.douban.com/subject/26295448/"
+  },
+  {
+   "id": "38219552",
+   "name": "万物源起",
+   "info": "[韩] 金宝英 / 张纬 / 国文出版社 / 2026-9-10 / 58.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35602156.jpg",
+   "auther": "",
+   "rating": "7.8",
+   "rating_count": "180",
+   "url": "https://book.douban.com/subject/38219552/"
+  },
+  {
+   "id": "38530244",
+   "name": "浴缸回忆录",
+   "info": "[波] 斯坦尼斯瓦夫·莱姆 / 由美 / 译林出版社 / 2026-9",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35616669.jpg",
+   "auther": "",
+   "rating": "7.5",
+   "rating_count": "75",
+   "url": "https://book.douban.com/subject/38530244/"
+  },
+  {
+   "id": "35049755",
+   "name": "索拉里斯星",
+   "info": "[波] 斯坦尼斯瓦夫·莱姆 / 靖振忠 / 译林出版社 / 2021-8 / 49.00",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33925108.jpg",
+   "auther": "",
+   "rating": "8.5",
+   "rating_count": "34490",
+   "url": "https://book.douban.com/subject/35049755/"
+  },
+  {
+   "id": "38446637",
+   "name": "泛托邦",
+   "info": "[德] 特蕾莎・汉尼根 / 孙佳 / 浙江文艺出版社 / 2026-7 / 69.00元",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s35514051.jpg",
+   "auther": "",
+   "rating": "8.5",
+   "rating_count": "159",
+   "url": "https://book.douban.com/subject/38446637/"
+  },
+  {
+   "id": "6518605",
+   "name": "三体全集 : 地球往事三部曲",
+   "info": "刘慈欣 / 重庆出版社 / 2012-1 / 168.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s28357056.jpg",
+   "auther": "",
+   "rating": "9.5",
+   "rating_count": "221337",
+   "url": "https://book.douban.com/subject/6518605/"
+  },
+  {
+   "id": "26389895",
+   "name": "银河帝国：基地七部曲 : 百万册纪念版",
+   "info": "[美] 艾萨克·阿西莫夫 / 叶李华 / 江苏凤凰文艺出版社 / 2015-10 / 328.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s28284246.jpg",
+   "auther": "",
+   "rating": "9.5",
+   "rating_count": "20083",
+   "url": "https://book.douban.com/subject/26389895/"
+  },
+  {
+   "id": "36985532",
+   "name": "血孩子",
+   "info": "[美] 奥克塔维娅·E.巴特勒 / 吴华 / 中国友谊出版公司 / 2025-2 / 55.00",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35044644.jpg",
+   "auther": "",
+   "rating": "8.2",
+   "rating_count": "5067",
+   "url": "https://book.douban.com/subject/36985532/"
+  },
+  {
+   "id": "37385290",
+   "name": "任意车站",
+   "info": "靓灵 / 上海文艺出版社 / 2025-10 / 68.00",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35253767.jpg",
+   "auther": "",
+   "rating": "8.7",
+   "rating_count": "477",
+   "url": "https://book.douban.com/subject/37385290/"
+  },
+  {
+   "id": "38420818",
+   "name": "爱的辛劳 : 一名心理咨询师见证的欲望、创伤与人间",
+   "info": "[美] 斯蒂芬·格罗斯 / 高虹远 / 上海三联书店 / 2026-7 / 49.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35538060.jpg",
+   "auther": "",
+   "rating": "8.2",
+   "rating_count": "1626",
+   "url": "https://book.douban.com/subject/38420818/"
+  },
+  {
+   "id": "35481512",
+   "name": "也许你该找个人聊聊",
+   "info": "[美]洛莉·戈特利布 / 张含笑 / 上海文化出版社 / 2021-7-28 / 68.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33944153.jpg",
+   "auther": "",
+   "rating": "9.0",
+   "rating_count": "65287",
+   "url": "https://book.douban.com/subject/35481512/"
+  },
+  {
+   "id": "26369699",
+   "name": "被讨厌的勇气 : “自我启发之父”阿德勒的哲学课",
+   "info": "[日] 岸见一郎、[日] 古贺史健 / 渠海霞 / 机械工业出版社 / 2015-4 / 39.80元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33828853.jpg",
+   "auther": "",
+   "rating": "8.5",
+   "rating_count": "148980",
+   "url": "https://book.douban.com/subject/26369699/"
+  },
+  {
+   "id": "36132802",
+   "name": "不原谅也没关系 : 复杂性创伤后压力综合征自我疗愈圣经",
+   "info": "[美] 皮特·沃克 / 严菲菲 / 北京科学技术出版社 / 2023-1-1 / 89.00元",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s34343531.jpg",
+   "auther": "",
+   "rating": "8.9",
+   "rating_count": "17150",
+   "url": "https://book.douban.com/subject/36132802/"
+  },
+  {
+   "id": "35143790",
+   "name": "蛤蟆先生去看心理医生",
+   "info": "[英] 罗伯特·戴博德 / 陈赢 / 天津人民出版社 / 2020-8-1 / 38.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33941998.jpg",
+   "auther": "",
+   "rating": "8.3",
+   "rating_count": "196812",
+   "url": "https://book.douban.com/subject/35143790/"
+  },
+  {
+   "id": "35897952",
+   "name": "津巴多普通心理学 (第8版)",
+   "info": "[美] 菲利普·津巴多、[美] 罗伯特·约翰逊、[美] 薇薇安·麦卡恩 / 傅小兰 / 人民邮电出版社 / 2022-7 / 198.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34217817.jpg",
+   "auther": "",
+   "rating": "9.2",
+   "rating_count": "2283",
+   "url": "https://book.douban.com/subject/35897952/"
+  },
+  {
+   "id": "38460914",
+   "name": "好好长大 : 探明儿童“心病”",
+   "info": "冈田尊司 / 刘俊涛 / 广西师范大学出版社 / 2026-9",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35616695.jpg",
+   "auther": "",
+   "rating": "8.0",
+   "rating_count": "79",
+   "url": "https://book.douban.com/subject/38460914/"
+  },
+  {
+   "id": "36624175",
+   "name": "幸福的陷阱 (第2版)",
+   "info": "[澳] 路斯·哈里斯 / 邓竹箐、无祝卓宏 / 机械工业出版社 / 2023-10 / 69.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s34689015.jpg",
+   "auther": "",
+   "rating": "8.4",
+   "rating_count": "443",
+   "url": "https://book.douban.com/subject/36624175/"
+  },
+  {
+   "id": "36727756",
+   "name": "照亮破碎之心",
+   "info": "[美]卡尔·戴瑟罗思 / 吴承瀚 / 湖南文艺出版社 / 2024-10 / 59.80元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35653537.jpg",
+   "auther": "",
+   "rating": "7.9",
+   "rating_count": "503",
+   "url": "https://book.douban.com/subject/36727756/"
+  },
+  {
+   "id": "37502923",
+   "name": "安定此心 : 我当精神科医生的12000天",
+   "info": "姜涛 / 中信出版集团 / 2026-1 / 58.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35355919.jpg",
+   "auther": "",
+   "rating": "8.3",
+   "rating_count": "5627",
+   "url": "https://book.douban.com/subject/37502923/"
+  },
+  {
+   "id": "25982198",
+   "name": "社会心理学（第11版，精装彩印）",
+   "info": "[美] 戴维·迈尔斯 / 侯玉波、乐国安、张志勇 / 人民邮电出版社 / 2014-10-1 / 368.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s28261247.jpg",
+   "auther": "",
+   "rating": "9.4",
+   "rating_count": "9140",
+   "url": "https://book.douban.com/subject/25982198/"
+  },
+  {
+   "id": "38926918",
+   "name": "性冲突的演化",
+   "info": "[美] 戴维·巴斯 / 戴思琪 / 中国人民大学出版社 / 2026-10 / 69.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35655762.jpg",
+   "auther": "",
+   "rating": "0",
+   "rating_count": "16",
+   "url": "https://book.douban.com/subject/38926918/"
+  },
+  {
+   "id": "38584538",
+   "name": "你为什么会对自己不满意 : 告别内在父母审判的6种可能",
+   "info": "丛非从 / 江苏凤凰文艺出版社 / 2026-8 / 49.80元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35584460.jpg",
+   "auther": "",
+   "rating": "7.4",
+   "rating_count": "91",
+   "url": "https://book.douban.com/subject/38584538/"
+  },
+  {
+   "id": "26815948",
+   "name": "当下的力量 : A Guide to Spiritual Enlightenment",
+   "info": "[德] 埃克哈特·托利 / 曹植 / 中信出版社 / 2016-6 / 35.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s28807248.jpg",
+   "auther": "",
+   "rating": "8.5",
+   "rating_count": "12892",
+   "url": "https://book.douban.com/subject/26815948/"
+  },
+  {
+   "id": "38571972",
+   "name": "焦虑者的世界",
+   "info": "张鹂 / 安孟竹、袁长庚 / 华东师范大学出版社 / 2026-7 / 75.00元",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35582124.jpg",
+   "auther": "",
+   "rating": "7.7",
+   "rating_count": "64",
+   "url": "https://book.douban.com/subject/38571972/"
+  },
+  {
+   "id": "26304954",
+   "name": "存在主义心理治疗",
+   "info": "[美] 欧文·亚隆 / 黄峥、张怡玲、沈东郁 / 商务印书馆 / 2015-5 / 79.00",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s28113560.jpg",
+   "auther": "",
+   "rating": "9.5",
+   "rating_count": "9845",
+   "url": "https://book.douban.com/subject/26304954/"
+  },
+  {
+   "id": "38597446",
+   "name": "照料你自己 : 现代情感通识课",
+   "info": "袁光锋 / 广东人民出版社 / 2026-8 / 78.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35591359.jpg",
+   "auther": "",
+   "rating": "8.9",
+   "rating_count": "60",
+   "url": "https://book.douban.com/subject/38597446/"
+  },
+  {
+   "id": "35519608",
+   "name": "非暴力沟通（修订版）",
+   "info": "[美] 马歇尔·卢森堡 / 刘轶 / 华夏出版社 / 2021-5 / 59.80元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34204113.jpg",
+   "auther": "",
+   "rating": "8.6",
+   "rating_count": "9910",
+   "url": "https://book.douban.com/subject/35519608/"
+  },
+  {
+   "id": "38564040",
+   "name": "我选择不再重复创伤 : 六段心理疗愈旅程",
+   "info": "[瑞士]爱丽丝·米勒 / 陈东 / 北京联合出版公司 / 2026-8 / 62.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35569250.jpg",
+   "auther": "",
+   "rating": "8.2",
+   "rating_count": "32",
+   "url": "https://book.douban.com/subject/38564040/"
+  },
+  {
+   "id": "2328458",
+   "name": "社会性动物",
+   "info": "埃利奥特·阿伦森Elliot Aronson / 邢占军 / 华东师范大学出版社 / 2007-12 / 45.00元",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s2783843.jpg",
+   "auther": "",
+   "rating": "9.0",
+   "rating_count": "16320",
+   "url": "https://book.douban.com/subject/2328458/"
+  }
+ ]
+}

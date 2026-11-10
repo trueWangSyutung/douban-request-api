@@ -1,0 +1,19 @@
+{
+  "name": "douban-request-api-worker",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "豆瓣图书查询 API 的 Cloudflare Worker 实现（边缘实时 API）",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "node --test",
+    "tail": "wrangler tail"
+  },
+  "dependencies": {
+    "node-html-parser": "^6.1.13"
+  },
+  "devDependencies": {
+    "wrangler": "^3.114.0"
+  }
+}

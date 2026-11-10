@@ -1,0 +1,20 @@
+{
+ "name": "豆瓣图书查询 API - 静态快照",
+ "version": "2.0.0",
+ "generated_at": "2026-11-10T06:09:00+00:00",
+ "note": "GitHub Pages 只提供只读快照；实时接口请使用 Cloudflare Worker 或自建服务。",
+ "tags": [
+  "小说",
+  "历史",
+  "科幻",
+  "心理学"
+ ],
+ "details": 4,
+ "books": 99,
+ "endpoints": {
+  "latest": "books/latest.json",
+  "tag": "books/tag/{tag}.json",
+  "detail": "books/{id}.json",
+  "search_index": "search/index.json"
+ }
+}

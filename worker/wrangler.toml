@@ -1,0 +1,19 @@
+name = "douban-request-api"
+main = "src/index.js"
+compatibility_date = "2024-12-01"
+workers_dev = true
+
+# 自定义域名：bookapi.oaixiv.org（oaixiv.org 需托管在本账户下）
+# 注意：DNS 记录需已存在且开启代理（橙云）；Cloudflare 会自动签发边缘证书。
+routes = [
+  { pattern = "bookapi.oaixiv.org/*", zone_name = "oaixiv.org" }
+]
+
+[dev]
+port = 8787
+
+[observability]
+enabled = true
+
+[vars]
+LOG_LEVEL = "info"

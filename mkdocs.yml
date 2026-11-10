@@ -1,0 +1,96 @@
+site_name: 豆瓣图书查询 API
+site_description: 基于 Flask + lxml 的豆瓣图书查询 API，带缓存、压缩与多平台部署方案
+site_url: https://trueWangSyutung.github.io/douban-request-api/
+repo_url: https://github.com/trueWangSyutung/douban-request-api
+repo_name: trueWangSyutung/douban-request-api
+edit_uri: edit/master/docs/
+copyright: Copyright &copy; 2022-2026 Wang Xudong · MIT License
+
+docs_dir: docs
+site_dir: site
+use_directory_urls: true
+
+theme:
+  name: material
+  language: zh
+  logo: https://img.icons8.com/color/96/books.png
+  favicon: https://img.icons8.com/color/96/books.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: 切换深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: 切换浅色模式
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_css:
+  - assets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/trueWangSyutung/douban-request-api
+  generator: false
+
+nav:
+  - 首页: index.md
+  - 快速开始: quickstart.md
+  - API:
+      - 接口概览: api/index.md
+      - 完整参考: reference.md
+      - 在线体验: playground.md
+  - 部署:
+      - 部署总览: deployment/index.md
+      - GitHub Pages（静态 API）: deployment/pages.md
+      - Cloudflare Worker: deployment/worker.md
+      - Docker / 自建服务器: deployment/docker.md
+  - 性能: performance.md
+  - 更新日志: changelog.md

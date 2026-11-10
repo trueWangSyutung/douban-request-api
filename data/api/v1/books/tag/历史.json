@@ -1,0 +1,192 @@
+{
+ "code": 200,
+ "tag": "历史",
+ "page": 1,
+ "start": 0,
+ "books": [
+  {
+   "id": "36794613",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34821689.jpg",
+   "name": "康熙的红票 : 全球化中的清朝",
+   "info": "孙立天 / 商务印书馆 / 2024-3 / 78",
+   "comment": "9.3",
+   "rating_count": "20004",
+   "url": "https://book.douban.com/subject/36794613/"
+  },
+  {
+   "id": "37118766",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35221080.jpg",
+   "name": "安史之乱 : 历史、宣传与神话",
+   "info": "张诗坪、胡可奇 / 上海人民出版社 / 2025-8 / 138.00元",
+   "comment": "9.2",
+   "rating_count": "3209",
+   "url": "https://book.douban.com/subject/37118766/"
+  },
+  {
+   "id": "38067357",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35577685.jpg",
+   "name": "西塔 : 一个东北街区中的空间、国家与日常",
+   "info": "宋念申 / 上海人民出版社 / 2026-8 / 79.80元",
+   "comment": "8.7",
+   "rating_count": "631",
+   "url": "https://book.douban.com/subject/38067357/"
+  },
+  {
+   "id": "38370177",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35466757.jpg",
+   "name": "秦二世必须死",
+   "info": "马伯庸 / 民主与建设出版社 / 2026-4 / 118.00元",
+   "comment": "6.7",
+   "rating_count": "5015",
+   "url": "https://book.douban.com/subject/38370177/"
+  },
+  {
+   "id": "38495090",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35533375.jpg",
+   "name": "妩媚的忠臣 : 隋唐变局中的魏徵",
+   "info": "赵帅淇 / 中华书局 / 2026-7 / 58.00元",
+   "comment": "7.8",
+   "rating_count": "608",
+   "url": "https://book.douban.com/subject/38495090/"
+  },
+  {
+   "id": "38613586",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s35609081.jpg",
+   "name": "失语的皇后 : 南齐权力嬗变中的个体生命",
+   "info": "郭硕 / 山西人民出版社 / 2026-9 / 98.00",
+   "comment": "7.6",
+   "rating_count": "152",
+   "url": "https://book.douban.com/subject/38613586/"
+  },
+  {
+   "id": "26925171",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s29249996.jpg",
+   "name": "大明王朝1566",
+   "info": "刘和平 / 花城出版社 / 2016-7 / 88.00元",
+   "comment": "9.5",
+   "rating_count": "24298",
+   "url": "https://book.douban.com/subject/26925171/"
+  },
+  {
+   "id": "38529630",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35590732.jpg",
+   "name": "魏玛十五年 : 一个国家失败的样本",
+   "info": "马国川 / 广东人民出版社 / 2026-8 / 88.00元",
+   "comment": "8.7",
+   "rating_count": "156",
+   "url": "https://book.douban.com/subject/38529630/"
+  },
+  {
+   "id": "35519560",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s33957074.jpg",
+   "name": "祥瑞 : 王莽和他的时代",
+   "info": "张向荣 / 上海人民出版社 / 2021-8 / 79.80元",
+   "comment": "8.7",
+   "rating_count": "12061",
+   "url": "https://book.douban.com/subject/35519560/"
+  },
+  {
+   "id": "35336328",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33809803.jpg",
+   "name": "隳三都 : 蒙古灭金围城史",
+   "info": "周思成 / 山西人民出版社 / 2021-1 / 68.00元",
+   "comment": "8.6",
+   "rating_count": "7412",
+   "url": "https://book.douban.com/subject/35336328/"
+  },
+  {
+   "id": "10758290",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s10206185.jpg",
+   "name": "东晋门阀政治",
+   "info": "田余庆 / 北京大学出版社 / 2012-5 / 49.00元",
+   "comment": "9.5",
+   "rating_count": "18627",
+   "url": "https://book.douban.com/subject/10758290/"
+  },
+  {
+   "id": "1041482",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s1800355.jpg",
+   "name": "万历十五年",
+   "info": "[美] 黄仁宇 / 生活·读书·新知三联书店 / 1997-5 / 18.00元",
+   "comment": "9.0",
+   "rating_count": "220797",
+   "url": "https://book.douban.com/subject/1041482/"
+  },
+  {
+   "id": "36096304",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34385069.jpg",
+   "name": "翦商 : 殷周之变与华夏新生",
+   "info": "李硕 / 广西师范大学出版社 / 2022-10 / 99.00元",
+   "comment": "8.8",
+   "rating_count": "40234",
+   "url": "https://book.douban.com/subject/36096304/"
+  },
+  {
+   "id": "38381103",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s35611401.jpg",
+   "name": "康熙 : 皇帝的自画像",
+   "info": "[美] 史景迁 / 汪枫 / 新星出版社 / 2026-8 / 59",
+   "comment": "8.5",
+   "rating_count": "97",
+   "url": "https://book.douban.com/subject/38381103/"
+  },
+  {
+   "id": "35678328",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34080320.jpg",
+   "name": "弃长安 : 安史之乱前后的内廷、诗人、政争与叛乱",
+   "info": "张明扬 / 天地出版社 / 2021-12 / 68.00元",
+   "comment": "8.4",
+   "rating_count": "13689",
+   "url": "https://book.douban.com/subject/35678328/"
+  },
+  {
+   "id": "38556395",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35566932.jpg",
+   "name": "一个村庄的陷落 : 纳粹如何瓦解日常生活",
+   "info": "[英] 朱莉娅·博伊德、[德] 安洁莉卡·帕特尔 / 王顺君 / 上海人民出版社 / 2026-6-1 / 88.00",
+   "comment": "8.6",
+   "rating_count": "103",
+   "url": "https://book.douban.com/subject/38556395/"
+  },
+  {
+   "id": "37920184",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35381053.jpg",
+   "name": "真事隐 : 康熙废储与正史虚构",
+   "info": "孙立天 / 中华书局 / 2026-1 / 78.00",
+   "comment": "8.6",
+   "rating_count": "4304",
+   "url": "https://book.douban.com/subject/37920184/"
+  },
+  {
+   "id": "1003479",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s1319205.jpg",
+   "name": "中国历代政治得失",
+   "info": "钱穆 / 生活·读书·新知三联书店 / 2001 / 12.00元",
+   "comment": "9.2",
+   "rating_count": "85466",
+   "url": "https://book.douban.com/subject/1003479/"
+  },
+  {
+   "id": "38182714",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35587608.jpg",
+   "name": "权力与王座 : 一部中世纪新史",
+   "info": "[英] 丹·琼斯 / 陆大鹏、刘晓晖 / 社会科学文献出版社 / 2026-8 / 178.00元",
+   "comment": "8.5",
+   "rating_count": "116",
+   "url": "https://book.douban.com/subject/38182714/"
+  },
+  {
+   "id": "37869944",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35358152.jpg",
+   "name": "历史中的大与小",
+   "info": "马伯庸 / 湖南文艺出版社 / 2025-12-31 / 56",
+   "comment": "7.3",
+   "rating_count": "4139",
+   "url": "https://book.douban.com/subject/37869944/"
+  }
+ ],
+ "meta": {
+  "generated_at": "2026-11-10T06:09:00+00:00",
+  "source": "snapshot"
+ }
+}

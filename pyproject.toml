@@ -1,0 +1,79 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "douban-request-api"
+version = "2.0.0"
+description = "基于 Flask 的豆瓣图书查询 API：连接复用、多级缓存、gzip、lxml 解析，支持 Docker / Cloudflare Worker / GitHub Pages 静态 API 部署"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Wang Xudong", email = "wangxudong@oac.ac.cn" }]
+keywords = ["douban", "books", "flask", "api", "scraper", "github-pages"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Framework :: Flask",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+dependencies = [
+  "Flask>=3.0",
+  "requests>=2.31",
+  "lxml>=5.0",
+]
+
+[project.optional-dependencies]
+# 仅用于解码旧版（加密）豆瓣搜索负载，正常路径为纯 JSON 解析
+legacy = ["quickjs>=1.19"]
+redis = ["redis>=5.0"]
+fastjson = ["orjson>=3.9"]
+server = ["gunicorn>=21.2"]
+dev = [
+  "pytest>=8.0",
+  "pytest-cov>=5.0",
+  "ruff>=0.5",
+  "PyExecJS>=1.5.1",
+]
+all = [
+  "quickjs>=1.19",
+  "redis>=5.0",
+  "orjson>=3.9",
+  "gunicorn>=21.2",
+]
+
+[project.scripts]
+douban-api = "douban_api.__main__:main"
+
+[project.urls]
+Homepage = "https://github.com/trueWangSyutung/douban-request-api"
+Documentation = "https://trueWangSyutung.github.io/douban-request-api/"
+Issues = "https://github.com/trueWangSyutung/douban-request-api/issues"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+douban_api = ["assets/*.js", "openapi.json"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+src = ["src", "tests", "benchmarks"]
+extend-exclude = ["src/douban_api/assets"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "C4", "RUF"]
+ignore = ["E501", "B008", "RUF001", "RUF002", "RUF003"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q --strict-markers"
+markers = [
+  "live: 需要访问豆瓣的联网测试（默认跳过）",
+]
+filterwarnings = ["ignore::DeprecationWarning"]

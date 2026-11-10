@@ -1,0 +1,17 @@
+services:
+  api:
+    build: .
+    image: ghcr.io/truewangSyutung/douban-request-api:latest
+    ports:
+      - "8080:8080"
+    environment:
+      PORT: "8080"
+      LOG_LEVEL: info
+      # 多副本时建议启用 Redis 共享缓存
+      # REDIS_URL: redis://redis:6379/0
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request;urllib.request.urlopen('http://127.0.0.1:8080/healthz')"]
+      interval: 30s
+      timeout: 3s
+      retries: 3

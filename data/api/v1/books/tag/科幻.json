@@ -1,0 +1,192 @@
+{
+ "code": 200,
+ "tag": "科幻",
+ "page": 1,
+ "start": 0,
+ "books": [
+  {
+   "id": "2567698",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s2768378.jpg",
+   "name": "三体 : “地球往事”三部曲之一",
+   "info": "刘慈欣 / 重庆出版社 / 2008-1 / 23.00",
+   "comment": "8.9",
+   "rating_count": "519248",
+   "url": "https://book.douban.com/subject/2567698/"
+  },
+  {
+   "id": "38552193",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35630176.jpg",
+   "name": "世界诞生之日",
+   "info": "[美] 厄休拉·勒古恩 / 马雅 / 北京联合出版公司 / 2026-10 / 98.00元",
+   "comment": "9.0",
+   "rating_count": "88",
+   "url": "https://book.douban.com/subject/38552193/"
+  },
+  {
+   "id": "35494160",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s33958826.jpg",
+   "name": "挽救计划",
+   "info": "[美] 安迪·威尔 / 耿辉 / 译林出版社 / 2021-9 / 68.00",
+   "comment": "9.1",
+   "rating_count": "28874",
+   "url": "https://book.douban.com/subject/35494160/"
+  },
+  {
+   "id": "25829693",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s27409671.jpg",
+   "name": "永恒的终结 : 关于时间旅行的终极奥秘和恢宏构想",
+   "info": "[美] 艾萨克·阿西莫夫 / 崔正男 / 江苏凤凰文艺出版社 / 2014-9 / 32.00元",
+   "comment": "9.1",
+   "rating_count": "56043",
+   "url": "https://book.douban.com/subject/25829693/"
+  },
+  {
+   "id": "38431581",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s35588711.jpg",
+   "name": "真实与虚幻 : 厄休拉·勒古恩短篇小说自选集",
+   "info": "[美] 厄休拉·勒古恩 / 由美 / 上海译文出版社 / 2026-8 / 139.00元",
+   "comment": "9.5",
+   "rating_count": "126",
+   "url": "https://book.douban.com/subject/38431581/"
+  },
+  {
+   "id": "37426819",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35453072.jpg",
+   "name": "时间之子 : “时间之子”系列 Ⅰ",
+   "info": "[英] 阿德里安·柴可夫斯基 / 罗妍莉 / 新星出版社 / 2026-6 / 69.00元",
+   "comment": "8.5",
+   "rating_count": "139",
+   "url": "https://book.douban.com/subject/37426819/"
+  },
+  {
+   "id": "34672178",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s33516836.jpg",
+   "name": "你一生的故事",
+   "info": "[美] 特德·姜 / 李克勤、王荣生、姚向辉 / 译林出版社 / 2019-12 / 42.00元",
+   "comment": "8.6",
+   "rating_count": "14406",
+   "url": "https://book.douban.com/subject/34672178/"
+  },
+  {
+   "id": "3066477",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s3078482.jpg",
+   "name": "三体Ⅱ : 黑暗森林",
+   "info": "刘慈欣 / 重庆出版社 / 2008-5 / 32.00",
+   "comment": "9.3",
+   "rating_count": "319587",
+   "url": "https://book.douban.com/subject/3066477/"
+  },
+  {
+   "id": "26362836",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s28050760.jpg",
+   "name": "献给阿尔吉侬的花束",
+   "info": "[美] 丹尼尔·凯斯 / 陈澄和 / 广西师范大学出版社 / 2015-4 / 36.00元",
+   "comment": "9.1",
+   "rating_count": "141541",
+   "url": "https://book.douban.com/subject/26362836/"
+  },
+  {
+   "id": "5363767",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s26012674.jpg",
+   "name": "三体Ⅲ : 死神永生",
+   "info": "刘慈欣 / 重庆出版社 / 2010-11 / 38.00元",
+   "comment": "9.2",
+   "rating_count": "297671",
+   "url": "https://book.douban.com/subject/5363767/"
+  },
+  {
+   "id": "35989392",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34280647.jpg",
+   "name": "献给阿尔吉侬的花束",
+   "info": "[美] 丹尼尔·凯斯 / 陈澄和 / 河南文艺出版社 / 2022-8-1 / 48.00元",
+   "comment": "9.0",
+   "rating_count": "44926",
+   "url": "https://book.douban.com/subject/35989392/"
+  },
+  {
+   "id": "26295448",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s28033064.jpg",
+   "name": "你一生的故事 : 特德·姜科幻小说集",
+   "info": "[美] 特德·姜 / 李克勤、王荣生、姚向辉 / 译林出版社 / 2015-5 / 36.00元",
+   "comment": "8.7",
+   "rating_count": "41905",
+   "url": "https://book.douban.com/subject/26295448/"
+  },
+  {
+   "id": "38219552",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35602156.jpg",
+   "name": "万物源起",
+   "info": "[韩] 金宝英 / 张纬 / 国文出版社 / 2026-9-10 / 58.00元",
+   "comment": "7.8",
+   "rating_count": "180",
+   "url": "https://book.douban.com/subject/38219552/"
+  },
+  {
+   "id": "38530244",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35616669.jpg",
+   "name": "浴缸回忆录",
+   "info": "[波] 斯坦尼斯瓦夫·莱姆 / 由美 / 译林出版社 / 2026-9",
+   "comment": "7.5",
+   "rating_count": "75",
+   "url": "https://book.douban.com/subject/38530244/"
+  },
+  {
+   "id": "35049755",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33925108.jpg",
+   "name": "索拉里斯星",
+   "info": "[波] 斯坦尼斯瓦夫·莱姆 / 靖振忠 / 译林出版社 / 2021-8 / 49.00",
+   "comment": "8.5",
+   "rating_count": "34490",
+   "url": "https://book.douban.com/subject/35049755/"
+  },
+  {
+   "id": "38446637",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s35514051.jpg",
+   "name": "泛托邦",
+   "info": "[德] 特蕾莎・汉尼根 / 孙佳 / 浙江文艺出版社 / 2026-7 / 69.00元",
+   "comment": "8.5",
+   "rating_count": "159",
+   "url": "https://book.douban.com/subject/38446637/"
+  },
+  {
+   "id": "6518605",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s28357056.jpg",
+   "name": "三体全集 : 地球往事三部曲",
+   "info": "刘慈欣 / 重庆出版社 / 2012-1 / 168.00元",
+   "comment": "9.5",
+   "rating_count": "221337",
+   "url": "https://book.douban.com/subject/6518605/"
+  },
+  {
+   "id": "26389895",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s28284246.jpg",
+   "name": "银河帝国：基地七部曲 : 百万册纪念版",
+   "info": "[美] 艾萨克·阿西莫夫 / 叶李华 / 江苏凤凰文艺出版社 / 2015-10 / 328.00元",
+   "comment": "9.5",
+   "rating_count": "20083",
+   "url": "https://book.douban.com/subject/26389895/"
+  },
+  {
+   "id": "36985532",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35044644.jpg",
+   "name": "血孩子",
+   "info": "[美] 奥克塔维娅·E.巴特勒 / 吴华 / 中国友谊出版公司 / 2025-2 / 55.00",
+   "comment": "8.2",
+   "rating_count": "5067",
+   "url": "https://book.douban.com/subject/36985532/"
+  },
+  {
+   "id": "37385290",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35253767.jpg",
+   "name": "任意车站",
+   "info": "靓灵 / 上海文艺出版社 / 2025-10 / 68.00",
+   "comment": "8.7",
+   "rating_count": "477",
+   "url": "https://book.douban.com/subject/37385290/"
+  }
+ ],
+ "meta": {
+  "generated_at": "2026-11-10T06:09:00+00:00",
+  "source": "snapshot"
+ }
+}

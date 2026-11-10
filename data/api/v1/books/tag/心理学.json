@@ -1,0 +1,192 @@
+{
+ "code": 200,
+ "tag": "心理学",
+ "page": 1,
+ "start": 0,
+ "books": [
+  {
+   "id": "38420818",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35538060.jpg",
+   "name": "爱的辛劳 : 一名心理咨询师见证的欲望、创伤与人间",
+   "info": "[美] 斯蒂芬·格罗斯 / 高虹远 / 上海三联书店 / 2026-7 / 49.00元",
+   "comment": "8.2",
+   "rating_count": "1626",
+   "url": "https://book.douban.com/subject/38420818/"
+  },
+  {
+   "id": "35481512",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33944153.jpg",
+   "name": "也许你该找个人聊聊",
+   "info": "[美]洛莉·戈特利布 / 张含笑 / 上海文化出版社 / 2021-7-28 / 68.00元",
+   "comment": "9.0",
+   "rating_count": "65287",
+   "url": "https://book.douban.com/subject/35481512/"
+  },
+  {
+   "id": "26369699",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33828853.jpg",
+   "name": "被讨厌的勇气 : “自我启发之父”阿德勒的哲学课",
+   "info": "[日] 岸见一郎、[日] 古贺史健 / 渠海霞 / 机械工业出版社 / 2015-4 / 39.80元",
+   "comment": "8.5",
+   "rating_count": "148980",
+   "url": "https://book.douban.com/subject/26369699/"
+  },
+  {
+   "id": "36132802",
+   "cover": "https://img2.doubanio.com/view/subject/s/public/s34343531.jpg",
+   "name": "不原谅也没关系 : 复杂性创伤后压力综合征自我疗愈圣经",
+   "info": "[美] 皮特·沃克 / 严菲菲 / 北京科学技术出版社 / 2023-1-1 / 89.00元",
+   "comment": "8.9",
+   "rating_count": "17150",
+   "url": "https://book.douban.com/subject/36132802/"
+  },
+  {
+   "id": "35143790",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s33941998.jpg",
+   "name": "蛤蟆先生去看心理医生",
+   "info": "[英] 罗伯特·戴博德 / 陈赢 / 天津人民出版社 / 2020-8-1 / 38.00元",
+   "comment": "8.3",
+   "rating_count": "196812",
+   "url": "https://book.douban.com/subject/35143790/"
+  },
+  {
+   "id": "35897952",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34217817.jpg",
+   "name": "津巴多普通心理学 (第8版)",
+   "info": "[美] 菲利普·津巴多、[美] 罗伯特·约翰逊、[美] 薇薇安·麦卡恩 / 傅小兰 / 人民邮电出版社 / 2022-7 / 198.00元",
+   "comment": "9.2",
+   "rating_count": "2283",
+   "url": "https://book.douban.com/subject/35897952/"
+  },
+  {
+   "id": "38460914",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35616695.jpg",
+   "name": "好好长大 : 探明儿童“心病”",
+   "info": "冈田尊司 / 刘俊涛 / 广西师范大学出版社 / 2026-9",
+   "comment": "8.0",
+   "rating_count": "79",
+   "url": "https://book.douban.com/subject/38460914/"
+  },
+  {
+   "id": "36624175",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s34689015.jpg",
+   "name": "幸福的陷阱 (第2版)",
+   "info": "[澳] 路斯·哈里斯 / 邓竹箐、无祝卓宏 / 机械工业出版社 / 2023-10 / 69.00元",
+   "comment": "8.4",
+   "rating_count": "443",
+   "url": "https://book.douban.com/subject/36624175/"
+  },
+  {
+   "id": "36727756",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35653537.jpg",
+   "name": "照亮破碎之心",
+   "info": "[美]卡尔·戴瑟罗思 / 吴承瀚 / 湖南文艺出版社 / 2024-10 / 59.80元",
+   "comment": "7.9",
+   "rating_count": "503",
+   "url": "https://book.douban.com/subject/36727756/"
+  },
+  {
+   "id": "37502923",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35355919.jpg",
+   "name": "安定此心 : 我当精神科医生的12000天",
+   "info": "姜涛 / 中信出版集团 / 2026-1 / 58.00元",
+   "comment": "8.3",
+   "rating_count": "5627",
+   "url": "https://book.douban.com/subject/37502923/"
+  },
+  {
+   "id": "25982198",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s28261247.jpg",
+   "name": "社会心理学（第11版，精装彩印）",
+   "info": "[美] 戴维·迈尔斯 / 侯玉波、乐国安、张志勇 / 人民邮电出版社 / 2014-10-1 / 368.00元",
+   "comment": "9.4",
+   "rating_count": "9140",
+   "url": "https://book.douban.com/subject/25982198/"
+  },
+  {
+   "id": "38926918",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35655762.jpg",
+   "name": "性冲突的演化",
+   "info": "[美] 戴维·巴斯 / 戴思琪 / 中国人民大学出版社 / 2026-10 / 69.00元",
+   "comment": "0",
+   "rating_count": "16",
+   "url": "https://book.douban.com/subject/38926918/"
+  },
+  {
+   "id": "38584538",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35584460.jpg",
+   "name": "你为什么会对自己不满意 : 告别内在父母审判的6种可能",
+   "info": "丛非从 / 江苏凤凰文艺出版社 / 2026-8 / 49.80元",
+   "comment": "7.4",
+   "rating_count": "91",
+   "url": "https://book.douban.com/subject/38584538/"
+  },
+  {
+   "id": "26815948",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s28807248.jpg",
+   "name": "当下的力量 : A Guide to Spiritual Enlightenment",
+   "info": "[德] 埃克哈特·托利 / 曹植 / 中信出版社 / 2016-6 / 35.00元",
+   "comment": "8.5",
+   "rating_count": "12892",
+   "url": "https://book.douban.com/subject/26815948/"
+  },
+  {
+   "id": "38571972",
+   "cover": "https://img9.doubanio.com/view/subject/s/public/s35582124.jpg",
+   "name": "焦虑者的世界",
+   "info": "张鹂 / 安孟竹、袁长庚 / 华东师范大学出版社 / 2026-7 / 75.00元",
+   "comment": "7.7",
+   "rating_count": "64",
+   "url": "https://book.douban.com/subject/38571972/"
+  },
+  {
+   "id": "26304954",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s28113560.jpg",
+   "name": "存在主义心理治疗",
+   "info": "[美] 欧文·亚隆 / 黄峥、张怡玲、沈东郁 / 商务印书馆 / 2015-5 / 79.00",
+   "comment": "9.5",
+   "rating_count": "9845",
+   "url": "https://book.douban.com/subject/26304954/"
+  },
+  {
+   "id": "38597446",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35591359.jpg",
+   "name": "照料你自己 : 现代情感通识课",
+   "info": "袁光锋 / 广东人民出版社 / 2026-8 / 78.00元",
+   "comment": "8.9",
+   "rating_count": "60",
+   "url": "https://book.douban.com/subject/38597446/"
+  },
+  {
+   "id": "35519608",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s34204113.jpg",
+   "name": "非暴力沟通（修订版）",
+   "info": "[美] 马歇尔·卢森堡 / 刘轶 / 华夏出版社 / 2021-5 / 59.80元",
+   "comment": "8.6",
+   "rating_count": "9910",
+   "url": "https://book.douban.com/subject/35519608/"
+  },
+  {
+   "id": "38564040",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s35569250.jpg",
+   "name": "我选择不再重复创伤 : 六段心理疗愈旅程",
+   "info": "[瑞士]爱丽丝·米勒 / 陈东 / 北京联合出版公司 / 2026-8 / 62.00元",
+   "comment": "8.2",
+   "rating_count": "32",
+   "url": "https://book.douban.com/subject/38564040/"
+  },
+  {
+   "id": "2328458",
+   "cover": "https://img3.doubanio.com/view/subject/s/public/s2783843.jpg",
+   "name": "社会性动物",
+   "info": "埃利奥特·阿伦森Elliot Aronson / 邢占军 / 华东师范大学出版社 / 2007-12 / 45.00元",
+   "comment": "9.0",
+   "rating_count": "16320",
+   "url": "https://book.douban.com/subject/2328458/"
+  }
+ ],
+ "meta": {
+  "generated_at": "2026-11-10T06:09:00+00:00",
+  "source": "snapshot"
+ }
+}

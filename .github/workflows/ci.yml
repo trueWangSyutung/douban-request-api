@@ -1,0 +1,78 @@
+name: ci
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint-test:
+    name: lint + test (py${{ matrix.python }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.10", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+          cache: pip
+          cache-dependency-path: pyproject.toml
+
+      - name: Install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev,server,legacy]"
+
+      - name: Ruff lint
+        run: |
+          ruff check .
+          ruff format --check .
+
+      - name: OpenAPI 与代码保持一致
+        run: python -m douban_api openapi --check
+
+      - name: Pytest
+        run: pytest -q --cov=douban_api --cov-report=term-missing --cov-fail-under=70
+
+      - name: 冒烟测试（真实启动）
+        run: |
+          python -m douban_api serve --port 5000 --workers 1 --threads 2 &
+          for i in $(seq 1 30); do curl -sf http://127.0.0.1:5000/healthz && break; sleep 1; done
+          curl -sf http://127.0.0.1:5000/healthz | tee /dev/stderr | grep -q 'status'
+          curl -sf http://127.0.0.1:5000/openapi.json | head -c 120
+          kill %1
+
+  docker:
+    name: docker build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v3
+      - name: Build image
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: false
+          load: true
+          tags: douban-api:ci
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+      - name: Smoke test container
+        run: |
+          docker run -d --name api -p 8080:8080 douban-api:ci
+          for i in $(seq 1 30); do curl -sf http://127.0.0.1:8080/healthz && break; sleep 1; done
+          curl -sf http://127.0.0.1:8080/healthz
+          docker logs api
+          docker rm -f api

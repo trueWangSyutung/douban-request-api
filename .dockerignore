@@ -1,0 +1,14 @@
+.git
+.github
+docs
+tests
+benchmarks
+worker
+node_modules
+site
+.venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.ruff_cache
+data

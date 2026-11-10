@@ -1,0 +1,116 @@
+/* 文档站自定义样式：只补充 Material 没有覆盖到的部分 */
+
+.md-typeset table:not([class]) {
+  font-size: 0.78rem;
+}
+
+.md-typeset code {
+  border-radius: 4px;
+}
+
+/* ---------- 演练场 ---------- */
+.pg {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 12px;
+  padding: 16px;
+  margin: 1.2rem 0;
+  background: var(--md-code-bg-color);
+}
+
+.pg-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.pg-modes {
+  gap: 16px;
+}
+
+.pg-mode {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.75rem;
+  cursor: pointer;
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.pg-mode:has(input:checked) {
+  border-color: #0a7d4f;
+  color: #0a7d4f;
+  font-weight: 600;
+}
+
+.pg-input,
+.pg-select {
+  font: inherit;
+  font-size: 0.72rem;
+  padding: 7px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--md-default-fg-color--light);
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  min-width: 150px;
+}
+
+.pg-base {
+  flex: 1 1 220px;
+}
+
+.pg-short {
+  min-width: 90px;
+  flex: 0 0 110px;
+}
+
+.pg-btn {
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 8px 18px;
+  border: 0;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #fff;
+  background: #0a7d4f;
+}
+
+.pg-btn:hover {
+  background: #086941;
+}
+
+.pg-status {
+  font-size: 0.7rem;
+  font-family: var(--md-code-font-family, monospace);
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 8px;
+  min-height: 1.2em;
+}
+
+.pg-status.ok { color: #0a7d4f; }
+.pg-status.error { color: #c62828; }
+.pg-status.busy { color: #b26a00; }
+
+.pg-output {
+  max-height: 460px;
+  overflow: auto;
+  margin: 0 !important;
+  font-size: 0.68rem !important;
+  line-height: 1.5 !important;
+  background: var(--md-default-bg-color) !important;
+}
+
+.pg-hint {
+  margin-top: 10px;
+  font-size: 0.66rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* ---------- OpenAPI / Redoc ---------- */
+.redoc-wrap {
+  min-height: 400px;
+}

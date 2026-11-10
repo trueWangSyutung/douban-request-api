@@ -1,0 +1,351 @@
+{
+ "type": "INIT",
+ "payload": {
+  "text": "一千零一夜",
+  "error_info": "",
+  "report": {
+   "qtype": "195",
+   "tags": "读书"
+  },
+  "total": 803,
+  "start": 0,
+  "items": [
+   {
+    "title": "[丛书] 一千零一夜",
+    "abstract": "人民文学出版社 / 共3册 / 2014年出版",
+    "labels": [],
+    "id": 23010,
+    "tpl_name": "search_simple",
+    "url": "https://book.douban.com/series/23010"
+   },
+   {
+    "tpl_name": "search_subject",
+    "abstract": "纳训 / 人民文学出版社 / 2003-01 / 22.0",
+    "extra_actions": [],
+    "interest": null,
+    "title": "一千零一夜",
+    "more_url": "onclick=\"moreurl(this,{i:'0',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'1035848',from:'book_subject_search',cat_id:'1001'})\"",
+    "url": "https://book.douban.com/subject/1035848/",
+    "abstract_2": "",
+    "labels": [],
+    "rating": {
+     "value": 8.6,
+     "rating_info": "",
+     "star_count": 4.5,
+     "count": 23445
+    },
+    "cover_url": "https://img1.doubanio.com/view/subject/l/public/s1070937.jpg",
+    "id": 1035848,
+    "topics": [],
+    "label_actions": []
+   },
+   {
+    "topics": [],
+    "more_url": "onclick=\"moreurl(this,{i:'1',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'1880824',from:'book_subject_search',cat_id:'1001'})\"",
+    "abstract_2": "",
+    "tpl_name": "search_subject",
+    "cover_url": "https://img1.doubanio.com/view/subject/l/public/s11082207.jpg",
+    "labels": [],
+    "rating": {
+     "count": 3292,
+     "rating_info": "",
+     "star_count": 4.5,
+     "value": 8.6
+    },
+    "interest": null,
+    "extra_actions": [],
+    "url": "https://book.douban.com/subject/1880824/",
+    "id": 1880824,
+    "title": "一千零一夜",
+    "label_actions": [],
+    "abstract": "民间故事 / 方平 等 / 上海译文出版社 / 2012-2 / 11.00元"
+   },
+   {
+    "label_actions": [],
+    "id": 1659189,
+    "labels": [],
+    "rating": {
+     "rating_info": "",
+     "count": 160,
+     "value": 8.9,
+     "star_count": 4.5
+    },
+    "abstract": "李唯中 / 李唯中 / 花山文艺出版社 / 1998-6 / 380.00元",
+    "topics": [],
+    "cover_url": "https://img3.doubanio.com/view/subject/l/public/s9085095.jpg",
+    "abstract_2": "",
+    "tpl_name": "search_subject",
+    "more_url": "onclick=\"moreurl(this,{i:'2',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'1659189',from:'book_subject_search',cat_id:'1001'})\"",
+    "url": "https://book.douban.com/subject/1659189/",
+    "interest": null,
+    "extra_actions": [],
+    "title": "一千零一夜（全八册）"
+   },
+   {
+    "topics": [],
+    "interest": null,
+    "label_actions": [],
+    "tpl_name": "search_subject",
+    "rating": {
+     "star_count": 4.5,
+     "value": 9,
+     "count": 96,
+     "rating_info": ""
+    },
+    "id": 1908603,
+    "abstract": "李唯中 / 宁夏人民出版社 / 2006-4 / 588.00元",
+    "cover_url": "https://img1.doubanio.com/view/subject/l/public/s6628698.jpg",
+    "extra_actions": [],
+    "more_url": "onclick=\"moreurl(this,{i:'3',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'1908603',from:'book_subject_search',cat_id:'1001'})\"",
+    "url": "https://book.douban.com/subject/1908603/",
+    "abstract_2": "",
+    "labels": [],
+    "title": "一千零一夜 : 足译本"
+   },
+   {
+    "labels": [],
+    "topics": [],
+    "interest": null,
+    "url": "https://book.douban.com/subject/1122052/",
+    "cover_url": "https://img1.doubanio.com/view/subject/l/public/s2005757.jpg",
+    "rating": {
+     "count": 436,
+     "value": 8.2,
+     "rating_info": "",
+     "star_count": 4
+    },
+    "label_actions": [],
+    "title": "一千零一夜",
+    "abstract": "/ 郅溥浩 / 北京燕山出版社 / 2003-7 / 22.00元",
+    "more_url": "onclick=\"moreurl(this,{i:'4',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'1122052',from:'book_subject_search',cat_id:'1001'})\"",
+    "tpl_name": "search_subject",
+    "id": 1122052,
+    "abstract_2": "",
+    "extra_actions": []
+   },
+   {
+    "extra_actions": [],
+    "title": "一千零一夜",
+    "more_url": "onclick=\"moreurl(this,{i:'5',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'1276777',from:'book_subject_search',cat_id:'1001'})\"",
+    "cover_url": "https://img1.doubanio.com/view/subject/l/public/s9854988.jpg",
+    "abstract_2": "",
+    "abstract": "纳训 / 1998-2 / 21.00元",
+    "id": 1276777,
+    "label_actions": [],
+    "url": "https://book.douban.com/subject/1276777/",
+    "tpl_name": "search_subject",
+    "interest": null,
+    "rating": {
+     "value": 8.8,
+     "count": 918,
+     "rating_info": "",
+     "star_count": 4.5
+    },
+    "topics": [],
+    "labels": []
+   },
+   {
+    "topics": [],
+    "cover_url": "https://img3.doubanio.com/view/subject/l/public/s29069771.jpg",
+    "title": "网易一千零一夜 : 互联网产品项目管理实战",
+    "tpl_name": "search_subject",
+    "interest": null,
+    "extra_actions": [
+     {
+      "color": "#CF5B40",
+      "text": "豆瓣书店有售",
+      "url": "https://book.douban.com/subject/26883531/?channel=subject_list&platform=web"
+     }
+    ],
+    "labels": [],
+    "url": "https://book.douban.com/subject/26883531/",
+    "more_url": "onclick=\"moreurl(this,{i:'6',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'26883531',from:'book_subject_search',cat_id:'1001'})\"",
+    "abstract_2": "",
+    "rating": {
+     "count": 153,
+     "star_count": 3.5,
+     "rating_info": "",
+     "value": 7.4
+    },
+    "id": 26883531,
+    "abstract": "网易杭研项目管理部 / 电子工业出版社 / 2016-9-1 / 46",
+    "label_actions": []
+   },
+   {
+    "more_url": "onclick=\"moreurl(this,{i:'7',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'1032562',from:'book_subject_search',cat_id:'1001'})\"",
+    "rating": {
+     "count": 185,
+     "rating_info": "",
+     "star_count": 5,
+     "value": 9.5
+    },
+    "interest": null,
+    "label_actions": [],
+    "labels": [],
+    "extra_actions": [],
+    "abstract": "张志芬 / 浙江少年儿童出版社 / 1990-03 / 11.26",
+    "abstract_2": "",
+    "id": 1032562,
+    "cover_url": "https://img3.doubanio.com/view/subject/l/public/s2812300.jpg",
+    "title": "一千零一夜连环画(上下全） : 一千零一夜连环画(上下全）",
+    "topics": [],
+    "tpl_name": "search_subject",
+    "url": "https://book.douban.com/subject/1032562/"
+   },
+   {
+    "label_actions": [],
+    "tpl_name": "search_subject",
+    "id": 1006961,
+    "title": "一千零一夜",
+    "abstract_2": "",
+    "cover_url": "https://img3.doubanio.com/view/subject/l/public/s1004490.jpg",
+    "labels": [],
+    "extra_actions": [],
+    "interest": null,
+    "url": "https://book.douban.com/subject/1006961/",
+    "abstract": "解传广 / 王秀英 / 解传广／王秀英 / 中国少年儿童出版社 / 1999-8-1 / 98.00",
+    "topics": [],
+    "more_url": "onclick=\"moreurl(this,{i:'8',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'1006961',from:'book_subject_search',cat_id:'1001'})\"",
+    "rating": {
+     "star_count": 4.5,
+     "rating_info": "",
+     "value": 9.1,
+     "count": 253
+    }
+   },
+   {
+    "topics": [],
+    "extra_actions": [],
+    "label_actions": [],
+    "title": "一千零一夜（分夜全譯本）",
+    "cover_url": "https://img1.doubanio.com/view/subject/l/public/s8945049.jpg",
+    "abstract": "李唯中 / 遠流 / 2000 / NT. 4000",
+    "more_url": "onclick=\"moreurl(this,{i:'9',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'3262509',from:'book_subject_search',cat_id:'1001'})\"",
+    "tpl_name": "search_subject",
+    "id": 3262509,
+    "labels": [],
+    "rating": {
+     "count": 24,
+     "value": 8.1,
+     "rating_info": "",
+     "star_count": 4
+    },
+    "abstract_2": "",
+    "url": "https://book.douban.com/subject/3262509/",
+    "interest": null
+   },
+   {
+    "label_actions": [],
+    "tpl_name": "search_subject",
+    "interest": null,
+    "abstract_2": "",
+    "labels": [],
+    "topics": [],
+    "rating": {
+     "value": 8.6,
+     "rating_info": "",
+     "star_count": 4.5,
+     "count": 615
+    },
+    "cover_url": "https://img1.doubanio.com/view/subject/l/public/s5934947.jpg",
+    "url": "https://book.douban.com/subject/3200743/",
+    "extra_actions": [],
+    "id": 3200743,
+    "more_url": "onclick=\"moreurl(this,{i:'10',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'3200743',from:'book_subject_search',cat_id:'1001'})\"",
+    "title": "一千零一夜 : 名著名译插图本•精华版",
+    "abstract": "纳训 / 人民文学出版社 / 1994-6 / 26.00元"
+   },
+   {
+    "abstract_2": "",
+    "abstract": "李唯中 / 南海出版公司 / 2006年 / 238.00元",
+    "rating": {
+     "rating_info": "评价人数不足",
+     "value": 0,
+     "count": 0,
+     "star_count": 0
+    },
+    "url": "https://book.douban.com/subject/2209509/",
+    "tpl_name": "search_subject",
+    "more_url": "onclick=\"moreurl(this,{i:'11',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'2209509',from:'book_subject_search',cat_id:'1001'})\"",
+    "cover_url": "https://img3.doubanio.com/view/subject/l/public/s9113673.jpg",
+    "labels": [],
+    "title": "一千零一夜（共10册） : 分夜全译本",
+    "interest": null,
+    "extra_actions": [],
+    "topics": [],
+    "id": 2209509,
+    "label_actions": []
+   },
+   {
+    "interest": null,
+    "tpl_name": "search_subject",
+    "abstract_2": "",
+    "title": "一千零一夜",
+    "cover_url": "https://img3.doubanio.com/view/subject/l/public/s29902195.jpg",
+    "more_url": "onclick=\"moreurl(this,{i:'12',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'30355859',from:'book_subject_search',cat_id:'1001'})\"",
+    "abstract": "邓嘉宛 / 云南美术出版社 / 2018-10 / 78.00",
+    "topics": [],
+    "label_actions": [],
+    "url": "https://book.douban.com/subject/30355859/",
+    "rating": {
+     "rating_info": "",
+     "count": 22,
+     "value": 8.9,
+     "star_count": 4.5
+    },
+    "labels": [],
+    "extra_actions": [
+     {
+      "color": "#973F31",
+      "text": "豆瓣阅读电子版",
+      "url": "https://read.douban.com/ebook/59605919/?dcs=search-buylink&dcm=douban&dct=30355859"
+     }
+    ],
+    "id": 30355859
+   },
+   {
+    "cover_url": "https://img3.doubanio.com/view/subject/l/public/s2147464.jpg",
+    "id": 1986124,
+    "url": "https://book.douban.com/subject/1986124/",
+    "abstract_2": "",
+    "tpl_name": "search_subject",
+    "interest": null,
+    "abstract": "纳训 / 人民文学出版社 / 1977 / 1.05",
+    "rating": {
+     "star_count": 4.5,
+     "value": 9.1,
+     "rating_info": "",
+     "count": 341
+    },
+    "title": "一千零一夜（一）",
+    "more_url": "onclick=\"moreurl(this,{i:'13',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'1986124',from:'book_subject_search',cat_id:'1001'})\"",
+    "label_actions": [],
+    "labels": [],
+    "extra_actions": [],
+    "topics": []
+   },
+   {
+    "interest": null,
+    "title": "一千零一夜（三）",
+    "abstract": "纳训 / 人民文学出版社 / 1977 / 1.20",
+    "url": "https://book.douban.com/subject/1986127/",
+    "topics": [],
+    "id": 1986127,
+    "cover_url": "https://img1.doubanio.com/view/subject/l/public/s2147468.jpg",
+    "label_actions": [],
+    "rating": {
+     "value": 9,
+     "count": 264,
+     "rating_info": "",
+     "star_count": 4.5
+    },
+    "tpl_name": "search_subject",
+    "labels": [],
+    "abstract_2": "",
+    "more_url": "onclick=\"moreurl(this,{i:'14',query:'%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C',subject_id:'1986127',from:'book_subject_search',cat_id:'1001'})\"",
+    "extra_actions": []
+   }
+  ],
+  "count": 15
+ }
+}
